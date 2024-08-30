@@ -1,6 +1,8 @@
 # bc6h_enc
 ## Single file library for BC6H compression with no external dependencies.
 
+Official repository: https://github.com/0xc0de/bc6h_enc
+
 The code is based on BC6HBC7.cpp from DirectXTex and localized into a single header library with no external dependencies.
 
 ### How to use:
